@@ -1,0 +1,22 @@
+{
+  "name": "jest-library-testing-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domino731/Jest-library-testing-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domino731/Jest-library-testing-/issues"
+  },
+  "homepage": "https://github.com/Domino731/Jest-library-testing-#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
